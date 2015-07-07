@@ -2,3 +2,8 @@ out
 target
 .idea
 *.iml
+.DS_Store
+Tools
+build
+build_test
+idea-IC
